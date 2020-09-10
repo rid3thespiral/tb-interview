@@ -14,7 +14,7 @@ function Signup() {
                 <input type="emai" placeholder="Username"></input>
                 <input type="password" placeholder="Confirm password" ></input>
                 <input type="image" placeholder="Add picture"></input>
-                <button type="submit" value="Register"></button>
+                <button className="register_button" type="submit" value="Register"></button>
             </form>
             </div>
         </div>

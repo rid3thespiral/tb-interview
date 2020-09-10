@@ -14,3 +14,8 @@ input {
     color: white;
     opacity: 1; /* Firefox */
   }
+
+  .login__button {
+    background: transparent;
+    
+  }
